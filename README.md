@@ -1,0 +1,1 @@
+node XXX.js < XXX.txt
